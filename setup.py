@@ -12,7 +12,7 @@ setup(
     packages=find_packages(),
     long_description=open('README.md', 'rt', encoding='UTF8').read(),
     long_description_content_type="text/markdown",
-    keywords=["discord.py", "paginaion", "button", "components", "discord_components"],
+    keywords=["discord.py", "paginaion", "button", "components", "discord_components","pycord","py-cord"],
     python_requires=">=3.6",
     install_requires=["py-cord","pycord-components"],
     zip_safe=False,
