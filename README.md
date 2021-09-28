@@ -11,7 +11,7 @@
 </div>
 
 ## Welcome!
-It's a paginator for pycord-componets! Thanks to the original creator khk4912 (khk4912 /EZPaginator)!
+It's a paginator for pycord-components! Thanks to the original creator khk4912 (khk4912 /EZPaginator)!
 
 This project is open source ⭐.
 
