@@ -25,7 +25,7 @@ pip install --upgrade PycordPaginator
 
 ## Example
 ```py
-from PagiNation import Paginator
+from PycordPaginator import Paginator
 from discord.ext.commands import Bot
 from pycord_components import PycordComponents
 import discord
